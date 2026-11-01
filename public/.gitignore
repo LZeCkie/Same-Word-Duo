@@ -1,0 +1,6 @@
+node_modules/
+.chrome-test/
+.chrome-profile/
+*.log
+_test-*.png
+_*.png
